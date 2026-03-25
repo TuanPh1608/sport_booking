@@ -1,3 +1,0 @@
-0000000000000000000000000000000000000000 77a084a7b902030c80261e7d45b54f8139261887 PHUNG TUAN <ptuan160804@gmail.com> 1774432031 +0700	commit (initial): feat: initial commit
-77a084a7b902030c80261e7d45b54f8139261887 77a084a7b902030c80261e7d45b54f8139261887 PHUNG TUAN <ptuan160804@gmail.com> 1774435368 +0700	Branch: renamed refs/heads/master to refs/heads/main
-77a084a7b902030c80261e7d45b54f8139261887 afbac23e3e6b4fbb1ff1170580762f2c9bd73435 PHUNG TUAN <ptuan160804@gmail.com> 1774435414 +0700	commit: feat: restructure frontend with feature modules and auth flow
