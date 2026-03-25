@@ -1,0 +1,48 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Maven
+target/
+*.jar
+*.war
+
+# Node (if any)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Documentation
+README.md
+HELP.md
+*.md
+
+# Build artifacts
+.gradle
+build/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Git files
+.git/
+.gitignore
+
+# Docker files (don't need to copy into image)
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Test files
+src/test/
+*.test.js
